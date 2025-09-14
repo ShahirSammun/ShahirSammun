@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahirsammun&label=Profile%20views&color=0e75b6&style=flat" alt="shahirsammun" /> </p>
 
-- 🌱 I’m currently learning **Excel,SQL,Python**
+- 🌱 I’m currently learning
+- **Playwright Testing,SQL,Python**
 
 - 📫 How to reach me **shahirsammun00@gmail.com**
 
