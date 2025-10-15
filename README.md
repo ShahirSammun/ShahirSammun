@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahir Sammun</h1>
-<h3 align="center">Flutter Developer</h3>
+<h3 align="center">Junior Test Automation Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahirsammun&label=Profile%20views&color=0e75b6&style=flat" alt="shahirsammun" /> </p>
 
